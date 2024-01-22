@@ -2,7 +2,8 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-silvestre-03aba81b8/)
 [![Wix](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://julianasilvestresi.wixsite.com/julianass)
-[![Wix](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliana.silvestresilva@hotmail.com)
+[![Blog](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https://drive.google.com/drive/u/0/folders/13QHdFEZlEdNh38E3-30vtMD6WjhrUiLp)](https://drive.google.com/drive/u/0/folders/13QHdFEZlEdNh38E3-30vtMD6WjhrUiLp)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliana.silvestresilva@hotmail.com)
 
 
 Hello! I'm Juliana Silvestre da Silva, a proactive and focused Computer Science student with a passion for systems development and data analysis. Currently in my 8th semester at PUC-MG, I have a solid foundation in programming languages such as Java, JavaScript, Python, and C, complemented by hands-on experience in full-stack development, mobile applications, and interdisciplinary projects.
